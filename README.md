@@ -14,4 +14,7 @@ and extract to get img file
 
 ![image](https://github.com/gani-radiant/ATM-Security/assets/91460621/2cb29dba-df17-434b-8116-9ebaa3500342)
 
+and we are implementing the project on Libre Le Potato looks like
+
+![lepotato](https://github.com/gani-radiant/ATM-Security/assets/91460621/1970fea7-9a0a-46ee-8dc7-1d8f989a1104)
 
